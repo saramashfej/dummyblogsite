@@ -1,0 +1,152 @@
+{
+    "anonymousId": "03b2347c-c75d-4ee9-bbba-bcf9cc9cd485",
+    "channel": "web",
+    "context": {
+        "app": {
+            "build": "1.0.0",
+            "name": "RudderLabs JavaScript SDK",
+            "namespace": "com.rudderlabs.javascript",
+            "version": "2.18.0"
+        },
+        "campaign": {},
+        "library": {
+            "name": "RudderLabs JavaScript SDK",
+            "version": "2.18.0"
+        },
+        "locale": "en-GB",
+        "os": {
+            "name": "",
+            "version": ""
+        },
+        "page": {
+            "initial_referrer": "$direct",
+            "initial_referring_domain": "",
+            "path": "/places/londonist-the-curve-london-2208105176012",
+            "referrer": "https://staging3.amberstudent.com/",
+            "referring_domain": "staging3.amberstudent.com",
+            "search": "",
+            "tab_url": "https://staging3.amberstudent.com/places/londonist-the-curve-london-2208105176012",
+            "title": "Londonist The Curve, London | Student Housing | Amber",
+            "url": "https://amberstudent.com/places/londonist-the-curve-london-2208105176012"
+        },
+        "screen": {
+            "density": 2,
+            "height": 900,
+            "innerHeight": 821,
+            "innerWidth": 1440,
+            "width": 1440
+        },
+        "sessionId": 1666708036682,
+        "traits": {
+            "email": "test@gm.com",
+            "firstlogin": false,
+            "name": "test"
+        },
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    "event": "lead_created",
+    "integrations": {
+        "All": true
+    },
+    "messageId": "1666708945197100-7693a2d6-31ed-4f9c-bd19-1470559bbfbf",
+    "originalTimestamp": "2022-10-25T14:42:25.197Z",
+    "properties": {
+        "booking_details": {},
+        "connect_details": {},
+        "created_at": "2022-10-25T20:12:25.179+05:30",
+        "data": {
+            "budget_currency": "pound",
+            "budget_duration": "weekly",
+            "message": " Phone number: +9112 (This phone number is incorrect. Please recheck the number and/or the formatting. Only correct phone numbers will get updated in the lead)"
+        },
+        "id": 996657,
+        "inventory_id": 226396,
+        "inventory_root_id": 226396,
+        "lead_no": "10256042071",
+        "location": {
+            "country": {
+                "long_name": "United Kingdom",
+                "short_name": "GB"
+            },
+            "district": {
+                "long_name": "Greater London",
+                "short_name": "Greater London"
+            },
+            "locality": {
+                "long_name": "London",
+                "short_name": "London"
+            },
+            "location_bounds": {
+                "northeast": {
+                    "lat": 51.5182236302915,
+                    "lng": -0.06494021970849796
+                },
+                "southwest": {
+                    "lat": 51.5155256697085,
+                    "lng": -0.06763818029150202
+                }
+            },
+            "location_coordinates": {
+                "lat": 51.5167467,
+                "lng": -0.06620329999999999
+            },
+            "location_place_id": "ChIJl2Ro4k0ddkgRDcfByG8Xl3w",
+            "name": "14 Fieldgate St, London E1 1FP, UK",
+            "postal_code": {
+                "long_name": "E1 1FP",
+                "short_name": "E1 1FP"
+            },
+            "primary": "14 Fieldgate St",
+            "route": {
+                "long_name": "Fieldgate Street",
+                "short_name": "Fieldgate St"
+            },
+            "secondary": "London E1 1FP, UK",
+            "state": {
+                "long_name": "England",
+                "short_name": "England"
+            },
+            "street_number": {
+                "long_name": "14",
+                "short_name": "14"
+            }
+        },
+        "location_coordinates": "POINT (-0.06620329999999999 51.5167467)",
+        "location_place_id": "ChIJl2Ro4k0ddkgRDcfByG8Xl3w",
+        "meta": {},
+        "name": "test [london-gb] [#10256042071]",
+        "process_details": {},
+        "referral_details": {},
+        "region_id": 14,
+        "repeat": false,
+        "score_details": {},
+        "search_name": "test 10256042071 test@gm.com",
+        "source_details": {
+            "final_url": "https://staging3.amberstudent.com/places/londonist-the-curve-london-2208105176012",
+            "ga_cid": "2038327799.1665646617",
+            "initial_referrer": "direct",
+            "initial_referring_domain": "https://staging3.amberstudent.com/",
+            "ip_address": "103.195.202.189",
+            "referring_domain": "https://staging3.amberstudent.com/",
+            "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+        },
+        "state": "created",
+        "tags": [
+            "inventory_selected",
+            "number_not_present"
+        ],
+        "updated_at": "2022-10-25T20:12:25.179+05:30",
+        "user_details": {
+            "email": "test@gm.com",
+            "name": "test"
+        },
+        "user_id": 613516,
+        "uuid": "63dbe2ec-7906-4b47-ab04-31eead1dd979",
+        "uuid_short": "24c0e76db67d9474"
+    },
+    "rudderId": "1315e7a3-0edb-4694-af6d-a89ce7fd9ce6",
+    "sentAt": "2022-10-25T14:42:25.201Z",
+    "type": "track",
+    "userId": "test@gm.com"
+}
+
